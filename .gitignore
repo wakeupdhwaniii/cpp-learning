@@ -1,0 +1,11 @@
+# Local build output
+/build/
+*.o
+*.obj
+*.exe
+a.out
+
+# Editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
